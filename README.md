@@ -1,2 +1,2 @@
 # Landing-page
-Create my first web page !
+First web page created !
